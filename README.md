@@ -6,7 +6,7 @@ Passionate about software development, automation, and building real-world appli
 
 
 ## Currently I'm Working On:
-- Strengthening Java & Python development skills
+- Strengthening development skills
 - Exploring Cloud and AI technologies
 
 
