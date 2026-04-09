@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm Swapnil - Ex-intern @DIAT-DRDO, i4 Marine Technologies | MCA, MIT'25<br><br>Passionate about software development, automation, and building real-world applications using Java and Python<br><br>## 🔭 Current Focus<br>Exploring Spring Boot, REST‑API design, and AI integration.
+**I'm Swapnil - Ex-intern @DIAT-DRDO, i4 Marine Technologies | MCA, MIT'25**<br><br>Passionate about software development, automation, and building real-world applications using Java-Spring and Python.<br><br>
 
+## 🔭 Current Focus<br>
+- Strengthening Development skills.<br>
+- Exploring Spring Boot, and AI integration.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-pawar-231348295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnil.pawar72002@gmail.com) 
