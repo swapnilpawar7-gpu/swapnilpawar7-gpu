@@ -1,5 +1,8 @@
 # 💫 About Me:
-**I'm Swapnil - AI Intern @CIC Tech Services, Ex-intern @DIAT-DRDO, i4 Marine Technologies | MCA, MIT'25**<br><br>Passionate about software development, automation, and building real-world applications.<br><br>
+
+**I'm Swapnil** <br>
+**Software Engineer | Java • Spring Boot • Python • Azure | Software Development | AI Engineer Intern @ CTC | Ex-intern @DIAT-DRDO**
+<br><br>
 
 ## 🔭 Current Focus<br>
 - Strengthening my development skills by building scalable and efficient applications. <br>
